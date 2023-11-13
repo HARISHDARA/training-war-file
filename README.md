@@ -1,1 +1,1 @@
-Hello Thanks for joining DevOps Training Batch
+Hello Thanks for joining DevOps Training Batch.
